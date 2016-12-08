@@ -24,7 +24,8 @@ html, body{
 
 #title{
    position:absolute;
-   float:left; 
+   /*float:left; */
+   /*align-content: center;*/
    padding:11%;
    width:70%; 
    margin:0 auto; 
@@ -69,3 +70,6 @@ ul {
     font-family:'Yrsa', serif;
 }
 
+#top_img {
+    width: 100%;
+}
